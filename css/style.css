@@ -146,6 +146,15 @@ img {
 .post-date{
     font-size: .875rem;
 }
+.post-thumbnail{
+    border-radius: 16px;
+    margin-bottom:1.5rem;
+}
+.post p{
+    margin-bottom: 1.5rem;
+    line-height: 2;
+}
+
 /* フッター 
 ---------------------------- */
 .page-footer{
