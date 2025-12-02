@@ -123,6 +123,11 @@ img {
     font-weight: normal;
     margin-bottom: 1.25rem;
 }
+.post-info{
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem
+}
 .post-date{
     font-size: .875rem;
 }
