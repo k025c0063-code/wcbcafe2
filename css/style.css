@@ -234,10 +234,16 @@ img {
     }
     .post{
         width:60%;
+        order:2;
     }
     .sidebar{
         width:22%;
+        order:3;
     }
+    .ad{
+        order:1;
+    }
+    
     .sidebar .heading-medium{
         line-height: 1;
         margin-bottom:1rem;
