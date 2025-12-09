@@ -202,6 +202,12 @@ img {
         font-size:2rem;
     }
 
+    /*ヘッダーカバー画像*/
+    .sub-cover{
+        height: 400px;
+        margin-bottom: 6rem;
+    }
+
     /*ヘッダー*/
     .page-header{
         display:flex;
