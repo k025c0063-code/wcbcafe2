@@ -198,6 +198,9 @@ img {
     .heading-large{
         font-size:4rem;
     }
+    .post-title{
+        font-size:2rem;
+    }
 
     /*ヘッダー*/
     .page-header{
